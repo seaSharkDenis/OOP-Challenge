@@ -1,0 +1,9 @@
+# Ignore build folders
+build/
+dist/
+
+# Ignore compiled executables
+*.exe
+
+# Ignore main.spec
+main.spec
