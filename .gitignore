@@ -1,0 +1,16 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+
+# Ignore build folders
+build/
+dist/
+
+# Ignore OS files
+.DS_Store
+
+# Ignore compiled executables
+*.exe
+
+# Ignore main.spec
+main.spec
